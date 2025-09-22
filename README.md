@@ -20,12 +20,18 @@ This is a simple **Calculator Web Application** built using **HTML, CSS, and Jav
 
 ---
 
-## Screenshots
-*(Optional: Add screenshots of your calculator here)*
+## How to See and Run the Project in VS Code
+1. **Open VS Code** on your computer.  
+2. Click **File → Open Folder** and select the folder containing this project.  
+3. Open the `index.html` file.  
+4. You can **run the project directly in a browser**:
+   - Right-click `index.html` → **Open with Live Server** (if you have the Live Server extension installed), or  
+   - Double-click `index.html` to open it in your default web browser.  
+5. Use the calculator buttons to perform calculations.
 
 ---
 
-## How to Use
-1. Clone the repository:
+## How to Clone the Project
+1. Clone the repository using Git:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
